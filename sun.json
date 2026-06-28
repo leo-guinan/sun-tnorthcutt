@@ -1,0 +1,382 @@
+{
+  "id": "sun-tnorthcutt",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@tnorthcutt Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_d873502904ee",
+    "display_name": "tnorthcutt",
+    "user_id": "@tnorthcutt",
+    "description": "Community Archive-derived proof-of-search sun for @tnorthcutt.",
+    "document_count": 57461,
+    "word_count": 783142,
+    "active_days": 5132,
+    "emissions": [
+      "Good",
+      "Thanks",
+      "Don",
+      "Know",
+      "Think",
+      "Yeah"
+    ],
+    "generated_at": "2026-06-28T13:39:02.811479+00:00",
+    "color": "#f59e0b",
+    "mass": 13.571
+  },
+  "planets": [
+    {
+      "id": "planet_a928097b6430",
+      "name": "Good",
+      "summary": "Archive cluster around good: 49108 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "now",
+        "time",
+        "here",
+        "great"
+      ],
+      "artifacts": [
+        {
+          "id": "art_8a0b2400b581",
+          "title": "Good receipt from 2011-03-14",
+          "excerpt": "Microsoft is making IE9 available today; please upgrade from IE8 (or older) by clicking here: http://www.google.com/chrome",
+          "source_document_id": "47357140700114944",
+          "timestamp": "2011-03-14T18:03:16+00:00",
+          "url": "https://x.com/tnorthcutt/status/47357140700114944",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, now, time, here."
+        },
+        {
+          "id": "art_d0081c860e34",
+          "title": "Good receipt from 2024-06-30",
+          "excerpt": "@fortelabs The Americans is a great example of this AND in my opinion it’s one of the best shows ever made",
+          "source_document_id": "1807484865480118747",
+          "timestamp": "2024-06-30T18:42:28+00:00",
+          "url": "https://x.com/tnorthcutt/status/1807484865480118747",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, now, time, here."
+        },
+        {
+          "id": "art_7264e1fec30e",
+          "title": "Good receipt from 2024-05-05",
+          "excerpt": "@steveofmcleod @ianlandsman I choose to believe you carefully chose the word “joined” for this tweet",
+          "source_document_id": "1787176416896749864",
+          "timestamp": "2024-05-05T17:43:56+00:00",
+          "url": "https://x.com/tnorthcutt/status/1787176416896749864",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, now, time, here."
+        },
+        {
+          "id": "art_e2704afec737",
+          "title": "Good receipt from 2021-12-07",
+          "excerpt": "@adamwathan clearly the html spec needs to be extended https://t.co/vXAqEcWhK1",
+          "source_document_id": "1468306315042713600",
+          "timestamp": "2021-12-07T19:47:59+00:00",
+          "url": "https://x.com/tnorthcutt/status/1468306315042713600",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, now, time, here."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_92ec2cfe7ec4",
+      "proof_score": 1,
+      "mass": 40.071,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_56ee21ef6863",
+      "name": "Thanks",
+      "summary": "Archive cluster around thanks: 2079 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "thanks",
+        "cool",
+        "awesome",
+        "sharing",
+        "now"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a26029d21e3a",
+          "title": "Thanks receipt from 2021-03-31",
+          "excerpt": "@stevenstrogatz @veritasium @SciencePetr Thanks for your contribution to this, Dr. Strogatz! I just watched this with my 9 year old son and we both enjoyed it a lot (as is usually the case with @veritasium videos; no surprise there).\n\nYour enthusiasm for this topic comes across clearly and is inspiring :)",
+          "source_document_id": "1377265827435585542",
+          "timestamp": "2021-03-31T14:25:36+00:00",
+          "url": "https://x.com/tnorthcutt/status/1377265827435585542",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: thanks, cool, awesome, sharing."
+        },
+        {
+          "id": "art_f4fd4d2358fa",
+          "title": "Thanks receipt from 2022-05-31",
+          "excerpt": "One of my favorite things to reply w/on twitter is \"for anyone else in the replies curious as I was here's a link\"\n\nTakes a few seconds, and the thanks you get is instant warm fuzzies\n\nIt's like the perfect helpful \"yes, and\" to the OP",
+          "source_document_id": "1531671095656558599",
+          "timestamp": "2022-05-31T16:17:00+00:00",
+          "url": "https://x.com/tnorthcutt/status/1531671095656558599",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: thanks, cool, awesome, sharing."
+        },
+        {
+          "id": "art_ec1942bee72a",
+          "title": "Thanks receipt from 2022-05-29",
+          "excerpt": "@thiagoghisi @WoodyZuill @jamesshore Thanks, I really found this useful! Here’s the full link for anyone else in the replies curious like I was: https://t.co/U6TwgTHFkM",
+          "source_document_id": "1530918915315863552",
+          "timestamp": "2022-05-29T14:28:07+00:00",
+          "url": "https://x.com/tnorthcutt/status/1530918915315863552",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: thanks, cool, awesome, sharing."
+        },
+        {
+          "id": "art_88cd62263052",
+          "title": "Thanks receipt from 2014-11-28",
+          "excerpt": "@CoenJacobs seems that way, thanks to efforts of people like @miss_jwo",
+          "source_document_id": "538342309817896960",
+          "timestamp": "2014-11-28T14:43:03+00:00",
+          "url": "https://x.com/tnorthcutt/status/538342309817896960",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: thanks, cool, awesome, sharing."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_81e4b85d9c6a",
+      "proof_score": 1,
+      "mass": 30.196,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_3f8b7b89335d",
+      "name": "Don",
+      "summary": "Archive cluster around don: 1934 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "think",
+        "want",
+        "see"
+      ],
+      "artifacts": [
+        {
+          "id": "art_73a9b0bc3503",
+          "title": "Don receipt from 2021-03-19",
+          "excerpt": "When I ask questions on twitter, especially in a reply to someone I don't know well, I do my best to be genuine and earnest, rather than sarcastic/rhetorical.\n\nSaying this out loud to normalize it, because I think twitter is better when people do this.",
+          "source_document_id": "1372961978671525891",
+          "timestamp": "2021-03-19T17:23:38+00:00",
+          "url": "https://x.com/tnorthcutt/status/1372961978671525891",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, want."
+        },
+        {
+          "id": "art_783d31004c6a",
+          "title": "Don receipt from 2025-07-02",
+          "excerpt": "Big life update: I quit my job this week!\n\nContext: I… don’t really care much about software development any more. Doesn’t do much for me. Maybe it will again in the future, maybe if I’m doing my own thing, dunno! But it has felt for a while so disconnected from any sense of…",
+          "source_document_id": "1940480900820525484",
+          "timestamp": "2025-07-02T18:41:13+00:00",
+          "url": "https://x.com/tnorthcutt/status/1940480900820525484",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, want."
+        },
+        {
+          "id": "art_9df527584406",
+          "title": "Don receipt from 2025-02-27",
+          "excerpt": "@melissajenna I suspect the charitable interpretation is \"yeah but it's everyone doing it all at once, and sends a message\"\n\nalthough I don't think something like this has any impact at all except inconveniencing the people participating",
+          "source_document_id": "1895222963043213715",
+          "timestamp": "2025-02-27T21:22:20+00:00",
+          "url": "https://x.com/tnorthcutt/status/1895222963043213715",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, want."
+        },
+        {
+          "id": "art_a9a5e8b57783",
+          "title": "Don receipt from 2021-08-31",
+          "excerpt": "@ashleydzhang Within a day. That was 17 years ago. \n\nI don’t know how to articulate it except that it was less a feeling and more an inevitability. Just completely obvious.",
+          "source_document_id": "1432573135925116930",
+          "timestamp": "2021-08-31T05:17:06+00:00",
+          "url": "https://x.com/tnorthcutt/status/1432573135925116930",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, want."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_3ab93551d420",
+      "proof_score": 1,
+      "mass": 31.945,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_dbe3281035d7",
+      "name": "Know",
+      "summary": "Archive cluster around know: 1414 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "know",
+        "didn",
+        "want",
+        "anyone",
+        "let"
+      ],
+      "artifacts": [
+        {
+          "id": "art_e66e9b53742d",
+          "title": "Know receipt from 2024-06-17",
+          "excerpt": "@tracyktownsend 1. Follow the momentum: if I can get myself to start doing {thing}, I'm usually fine. So, if I know I need to do a thing, often i will start IMMEDIATELY even if that's the \"optimal\" time to do it, because I can feel that I'm able to start right now, so it'll get done, and I won't…",
+          "source_document_id": "1802815528152563811",
+          "timestamp": "2024-06-17T21:28:11+00:00",
+          "url": "https://x.com/tnorthcutt/status/1802815528152563811",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, want, anyone."
+        },
+        {
+          "id": "art_62b9b7c19179",
+          "title": "Know receipt from 2025-03-28",
+          "excerpt": "@eigenrobot y-axis sucks here\n\nNo commentary on the subject matter. Just the y-axis. \n\nI know you didn’t make it.",
+          "source_document_id": "1905695559308157400",
+          "timestamp": "2025-03-28T18:56:42+00:00",
+          "url": "https://x.com/tnorthcutt/status/1905695559308157400",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, want, anyone."
+        },
+        {
+          "id": "art_fcabe008b198",
+          "title": "Know receipt from 2017-02-02",
+          "excerpt": "@Pinboard you know it’s bad when Comcast making Facebook look bad 😐 https://t.co/XdLrkjR90G",
+          "source_document_id": "827268913905823744",
+          "timestamp": "2017-02-02T21:34:13+00:00",
+          "url": "https://x.com/tnorthcutt/status/827268913905823744",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, want, anyone."
+        },
+        {
+          "id": "art_3f7a8783605a",
+          "title": "Know receipt from 2019-12-17",
+          "excerpt": "I do PHP (esp. @laravelphp) and frontend (esp. @vuejs) development, and I'm looking for more clients to help.\n\nIf that's you, or you know someone, let's talk!\n\nMore on my site: https://t.co/23CGOnNClz\n\nAnd of course, RTs appreciated 😃",
+          "source_document_id": "1206976858044022784",
+          "timestamp": "2019-12-17T16:38:02+00:00",
+          "url": "https://x.com/tnorthcutt/status/1206976858044022784",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, want, anyone."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_150aac9d6bd3",
+      "proof_score": 1,
+      "mass": 30.73,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_918fcceb9351",
+      "name": "Think",
+      "summary": "Archive cluster around think: 1416 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "maybe",
+        "yeah",
+        "way",
+        "here"
+      ],
+      "artifacts": [
+        {
+          "id": "art_49d5f696c9d1",
+          "title": "Think receipt from 2025-06-02",
+          "excerpt": "I've started making wood sculpture recently, and I really, really like it. \n\nThis is my first piece.\n\nI have many, many more to come, I think. My head is swimming with ideas and shapes. https://t.co/LNzQzEt3LF",
+          "source_document_id": "1929611675344220556",
+          "timestamp": "2025-06-02T18:50:48+00:00",
+          "url": "https://x.com/tnorthcutt/status/1929611675344220556",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, maybe, yeah, way."
+        },
+        {
+          "id": "art_1b9f3817064a",
+          "title": "Think receipt from 2025-07-14",
+          "excerpt": "@GrantSlatton You're getting a lot of flak in the comments but I think this is really interesting!\n\nWould make it trivial to target arbitrary motion/direction of limbs in ways that is hard to do with normal equipment",
+          "source_document_id": "1944880074681147586",
+          "timestamp": "2025-07-14T22:01:58+00:00",
+          "url": "https://x.com/tnorthcutt/status/1944880074681147586",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, maybe, yeah, way."
+        },
+        {
+          "id": "art_d60e9d58e5d2",
+          "title": "Think receipt from 2023-08-15",
+          "excerpt": "Making a thread here of my favorite posts or ones that I think matter etc so I can pin it\n\n🦄🐘🦦",
+          "source_document_id": "1691291769000906753",
+          "timestamp": "2023-08-15T03:32:35+00:00",
+          "url": "https://x.com/tnorthcutt/status/1691291769000906753",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, maybe, yeah, way."
+        },
+        {
+          "id": "art_2affc4fa97fc",
+          "title": "Think receipt from 2021-08-02",
+          "excerpt": "@liminal_warmth @visakanv I agree, and also I think that having intentional community can be a lot lower barrier than jointly purchasing something.\n\nCoordinate purchasing/renting in the same 3 block radius and you can have 85% of the closeness with none of the ingress/egress issues, IMO",
+          "source_document_id": "1422261306829119489",
+          "timestamp": "2021-08-02T18:21:34+00:00",
+          "url": "https://x.com/tnorthcutt/status/1422261306829119489",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, maybe, yeah, way."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_b9e469a1b551",
+      "proof_score": 1,
+      "mass": 31.09,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_7539542daaeb",
+      "name": "Yeah",
+      "summary": "Archive cluster around yeah: 1510 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "yeah",
+        "too",
+        "makes",
+        "sense",
+        "way"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a7b1cd667c5c",
+          "title": "Yeah receipt from 2021-11-01",
+          "excerpt": "@visakanv yeah the private/secret thing resonates\n\nReminds me a lot of the story (can't find original) of guy whose wife died and he ~said \"I'm the only speaker of a dead language\"\n\namong the most poignant and gutting of things I've read",
+          "source_document_id": "1455229407358947328",
+          "timestamp": "2021-11-01T17:45:02+00:00",
+          "url": "https://x.com/tnorthcutt/status/1455229407358947328",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, too, makes, sense."
+        },
+        {
+          "id": "art_92f22bd489a7",
+          "title": "Yeah receipt from 2024-04-15",
+          "excerpt": "@visakanv @christineist yeah this resonates a ton\n\nimage in my head: gotta get that positive feedback flywheel going. It's hard to start it and if you try to start by accelerating it too much you'll go \"eff this\" and stop pushing it",
+          "source_document_id": "1779966060550127672",
+          "timestamp": "2024-04-15T20:12:33+00:00",
+          "url": "https://x.com/tnorthcutt/status/1779966060550127672",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, too, makes, sense."
+        },
+        {
+          "id": "art_9de405e89eac",
+          "title": "Yeah receipt from 2020-04-27",
+          "excerpt": "@alt_visa Yeah, I also see what Visa is talking about here sometimes. Guess it’s just a natural transition.",
+          "source_document_id": "1254786111475290121",
+          "timestamp": "2020-04-27T14:54:56+00:00",
+          "url": "https://x.com/tnorthcutt/status/1254786111475290121",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, too, makes, sense."
+        },
+        {
+          "id": "art_325a6068bdcc",
+          "title": "Yeah receipt from 2021-11-19",
+          "excerpt": "@sgodofsk @eigenrobot wait does this mean I win the marshmallow test because I have a kid?\n\nhell yeah",
+          "source_document_id": "1461716386275811344",
+          "timestamp": "2021-11-19T15:21:58+00:00",
+          "url": "https://x.com/tnorthcutt/status/1461716386275811344",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, too, makes, sense."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_54da8950c721",
+      "proof_score": 1,
+      "mass": 30.445,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
